@@ -32,7 +32,7 @@
 
 
 #### 구조도
-![image](https://user-images.githubusercontent.com/13353498/74360085-c3817400-4e07-11ea-99f3-89f05c91f7e4.png)
+![image](https://user-images.githubusercontent.com/13353498/74407496-789e4580-4e75-11ea-952e-cf8bcdd89843.png)
 
 
 
